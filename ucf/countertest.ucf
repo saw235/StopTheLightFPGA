@@ -1,0 +1,23 @@
+           net "i7" loc = "N3"; 
+           net "i6" loc = "E2"; 
+           net "i5" loc = "F3"; 
+			  net "i4" loc = "G3"; 
+			  net "i3" loc = "B4"; 
+			  net "i2" loc = "K3"; 
+			  net "i1" loc = "L3"; 
+			  net "i0" loc = "P11"; 
+			  net "count" loc = "A7";
+			  
+			  net "load" loc = "G12";
+           net "clr" loc = "C11";
+           net "clk" loc = "M4";
+       
+           net "s7" loc = "G1";
+           net "s6" loc = "P4";
+			  net "s5" loc = "N4";
+			  net "s4" loc = "N5";
+			  net "s3" loc = "P6";
+			  net "s2" loc = "P7";
+			  net "s1" loc = "M11";
+			  net "s0" loc = "M5";
+			  

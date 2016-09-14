@@ -1,0 +1,10 @@
+		NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
+		
+		net "c1" Loc = "N3";
+      net "c0" Loc = "E2";
+      net "count" Loc = "A7";
+      net "clk" Loc = "G12";
+		
+		net "s2" Loc = "G1";
+		net "s1" Loc = "P4";
+		net "s0" Loc = "N4";
